@@ -66,7 +66,7 @@
 <body>
 <div>
    <div id="mypix">
-   	 <img src="image/bluecard1992.jpg" height="100%" width="100%">
+   	 <img src="https://scontent.flos2-1.fna.fbcdn.net/v/t1.0-9/17342946_1210785139019486_1925490870085940056_n.jpg?_nc_eui2=v1%3AAeGms8tFiTUdWJruQnnKrwKo4I1jB0hljlTtGtpjv3IZ_Moy7NCYhqNSj3YaLj64xw4gd6LxLKAFN8UHaFkwMdq-exS1BYNm1be5_X2mW2b-Tg&oh=736aacd816e83a28eb5e4729320a8672&oe=5A24C9A4" height="40%" width="60%">
    	 <div class="myName">
 	   	 <h2>ECHEZONA OKAFOR</h2>
 	   	 <h5>WEB DEVELOPER</h5>
@@ -87,6 +87,8 @@
 
             <br><br>
                slack: bluecard1992
+            <br><br>
+               <a href="https://github.com/alactic/hng/blob/master/hng-app.apk" style="color:red"> DOWNLOAD ANDROID APK</a>
    	   </h4>
 
        <div class="contact_form">
